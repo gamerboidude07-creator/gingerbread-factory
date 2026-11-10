@@ -1,0 +1,23 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "MIT"
+
+[[mods]]
+modId = "gingerbreadfactory"
+version = "1.0.0"
+displayName = "Gingerbread Factory"
+description = '''A multi-step gingerbread recipe chain made entirely of normal crafting and smelting recipes, so it can be automated with vanilla crafters, hoppers and furnaces.'''
+
+[[dependencies.gingerbreadfactory]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1.0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.gingerbreadfactory]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.22)"
+ordering = "NONE"
+side = "BOTH"

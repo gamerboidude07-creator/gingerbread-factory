@@ -1,0 +1,4 @@
+{"type":"minecraft:crafting_shaped","category":"building",
+ "pattern":["FFF","FIF","FFF"],
+ "key":{"F":{"item":"gingerbreadfactory:frosted_gingerbread_man"},"I":{"item":"gingerbreadfactory:royal_icing"}},
+ "result":{"id":"gingerbreadfactory:gingerbread_house","count":1}}

@@ -1,0 +1,3 @@
+{"type":"minecraft:crafting_shapeless","category":"misc",
+ "ingredients":[{"item":"gingerbreadfactory:gingerbread_man"},{"item":"gingerbreadfactory:royal_icing"}],
+ "result":{"id":"gingerbreadfactory:frosted_gingerbread_man","count":1}}

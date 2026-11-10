@@ -1,0 +1,4 @@
+{"type":"minecraft:crafting_shaped","category":"misc",
+ "pattern":[" D ","DDD","D D"],
+ "key":{"D":{"item":"gingerbreadfactory:gingerbread_dough"}},
+ "result":{"id":"gingerbreadfactory:raw_gingerbread_man","count":3}}
